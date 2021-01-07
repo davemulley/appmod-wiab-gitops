@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: appmod-wiab
+description: Chart to configure ArgoCD with the appmod-wiab project and its applications
